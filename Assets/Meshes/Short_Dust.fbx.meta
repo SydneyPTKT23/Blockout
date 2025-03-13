@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: d270a23fc640e6844aa0e6bd49fdc180
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1005
+    second: {fileID: 2100000, guid: b4ae6049b202deb4cbfb46e8e4b5ead5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1066
+    second: {fileID: 2100000, guid: 90de5647470ac044ebe97e5a19ac1259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1067
+    second: {fileID: 2100000, guid: 2c2c4a9290d51b145ac358146e6f969f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #135
+    second: {fileID: 2100000, guid: 8a543339f10ab9744b058aa94df28c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #142
+    second: {fileID: 2100000, guid: b244ee4a2d9e62f48afbbe4eb25cf599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #143
+    second: {fileID: 2100000, guid: df9158bb3f2520f4fb932fff22b97fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #144
+    second: {fileID: 2100000, guid: 973418522a6596a47915372cf456a6f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #145
+    second: {fileID: 2100000, guid: 9f75ea6d68cb09546bfb2370cd476334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #87
+    second: {fileID: 2100000, guid: 9c54b8aa018f8e149a9b80ff925554c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Bulb
+    second: {fileID: 2100000, guid: cc25b754fb6277f43a9343e6efa9542b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_Concrete
+    second: {fileID: 2100000, guid: 096762a7bb250d646a4c85d60cde8a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_Mirageandshortdustmixexpanded
+    second: {fileID: 2100000, guid: 0784baa4a40a29042b56193ed71208fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_Shortdusttrans
+    second: {fileID: 2100000, guid: d93f4730d5869454899a8d3516a76aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_TexturesCom_FloorsCheckerboard0029_1_seamless_S
+    second: {fileID: 2100000, guid: cefe89e88eb01944e972b0d78b070fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_TexturesCom_FloorsMedieval0084_1_S
+    second: {fileID: 2100000, guid: 7aa67ead4cdca82468199218f8da2d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_basement_floor_2
+    second: {fileID: 2100000, guid: 9f097730a3d31e74d860075630dc3059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_brick_pavement_0056_01_preview
+    second: {fileID: 2100000, guid: f4304d95d1b362f4a879099e13d18057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_casinoenvtexture
+    second: {fileID: 2100000, guid: a5350df8eca15b6439dd836bdf87fd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_marbletilestextureseamless
+    second: {fileID: 2100000, guid: 2c30d91507cc79e49a72fe65f849cf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_modernkitchenfloortilestexturetmalsc
+    second: {fileID: 2100000, guid: 745ecd9006aa9f0458e1b12074c01661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_popularblacktilefloortexturebx
+    second: {fileID: 2100000, guid: daab0bae2a6f6ff4ca05110524353611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_shortdustenvtexture
+    second: {fileID: 2100000, guid: d6cbc387124cdd54f8c061d33c705628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_shortdustenvtexture_1
+    second: {fileID: 2100000, guid: f347d6f6bf950e94eb8bbfb96491c3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maya_shortdustenvtextureselfilluminate
+    second: {fileID: 2100000, guid: c432ae441939d94478bebafbd0e96651, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete1
+    second: {fileID: 2800000, guid: 08399181794490e409c852b42038eacf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirage-and-shortdust-mix-expanded
+    second: {fileID: 2800000, guid: 25cf86882ba31c843b85fd159527b76b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shortdust trans 01.
+    second: {fileID: 2800000, guid: b8026659050ddf14786031a3975d7556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shortdust trans 01._Mask
+    second: {fileID: 2800000, guid: 44d0024221c127a42a65fbf71510a6a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FloorsCheckerboard0029_1_seamless_S
+    second: {fileID: 2800000, guid: fc215ed90f9d28248973e486db9ae0d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FloorsMedieval0084_1_S
+    second: {fileID: 2800000, guid: 0fe32d5f34d14ed4fb2fbba0da118b5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick_pavement_0056_01_preview
+    second: {fileID: 2800000, guid: 09f37558df8fa90448fb31b788e0555e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casino-env-texture-01
+    second: {fileID: 2800000, guid: cbaa4872c142fbb44af4dd7387a263ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: marble-tiles-texture-seamless
+    second: {fileID: 2800000, guid: 14473835c070e9d469dc1efe4dd18f13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mirage env texture
+    second: {fileID: 2800000, guid: b61a5583f3e87b94484bdf32e19227c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: modern-kitchen-floor-tiles-texture-tmalsc83
+    second: {fileID: 2800000, guid: 2ad0162720fab764e8d24840e1407267, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: popular-black-tile-floor-texture-bx20
+    second: {fileID: 2800000, guid: 636c4dd6d2fd6b74c947e62df8a18714, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sedan_d
+    second: {fileID: 2800000, guid: e003c2e073f8d4e41aae2fdf08aa5f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sedan_d2
+    second: {fileID: 2800000, guid: 114af13c87187b444b186c6a05c69926, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sedan_d3
+    second: {fileID: 2800000, guid: 4b20d68131e65f04dad28fd91ac5c3e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shortdust-env-texture-01
+    second: {fileID: 2800000, guid: fb82fc18cca76d446aca88d404df5d5a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
